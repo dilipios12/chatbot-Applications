@@ -1,0 +1,26 @@
+{
+  "admin": [
+    {
+      "id": "3e057e6f-794a-4306-a05b-1fc7b109bbfe",
+      "question": "hello",
+      "answer": "how are you"
+    },
+    {
+      "id": "b4611247-a9d1-4382-8c50-225447c3f6dc",
+      "question": "okk",
+      "answer": "by"
+    },
+    {
+      "id": "d7e7174f-0652-4eb5-b656-f9af715fc909",
+      "question": "main kon hu",
+      "answer": "i am admin"
+    }
+  ],
+  "rahul": [
+    {
+      "id": "837ae89b-b2c7-4860-8f5e-c6cc54f4abbd",
+      "question": "mai kon hu",
+      "answer": "mai rahul hu"
+    }
+  ]
+}

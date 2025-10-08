@@ -1,0 +1,43 @@
+[
+  {
+    "widgetId": "admin2d3f3b64-3f53-49b3-a2e8-3793c3c7ba30",
+    "welcome": "Welcome to Iosandweb Technology",
+    "color": "#007bff",
+    "overviewColor": "#0a65db",
+    "show": true,
+    "position": "bottom-right",
+    "propertyUrl": "https://mail.google.com/",
+    "status": "active",
+    "forwardEmail": "support@example.com",
+    "createdBy": "admin",
+    "chatHeader": "IAW - AI.chatBot",
+    "fontSize": "17px",
+    "fontFamily": "",
+    "imageUrl": null
+  },
+  {
+    "widgetId": "6b2f830c-46b1-4cf0-ac23-54cf1d4b8e92",
+    "welcome": "Welcome to Iosandweb Technology",
+    "color": "#007bff",
+    "overviewColor": "#0a6fbd",
+    "show": true,
+    "position": "bottom-right",
+    "propertyUrl": "https://mail.google.com/mail/u/0/#inbox/FMfcgzQbgRsvMdXhxhKstDlSVnFGQnNw",
+    "status": "active",
+    "forwardEmail": "support@example.com",
+    "chatHeader": "IAW - AI.chatBot",
+    "createdBy": "rahul"
+  },
+  {
+    "widgetId": "1107d161-d5ca-4de0-963f-8443e368600b",
+    "welcome": "Welcome to Iosandweb Technology",
+    "color": "#007bff",
+    "overviewColor": "#0a6fbd",
+    "show": true,
+    "position": "bottom-right",
+    "propertyUrl": "https://chatbot.iosandweb.net/admin/",
+    "status": "active",
+    "forwardEmail": "support@example.com",
+    "createdBy": "anjali"
+  }
+]

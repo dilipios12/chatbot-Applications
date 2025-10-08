@@ -1,0 +1,53 @@
+[
+  {
+    "keywords": ["hi", "hello", "hey","hy"],
+    "response": "Hello! How can I assist you with our iOS and web services today?"
+  },
+  {
+    "keywords": ["services"],
+    "response": "We provide SEO, PPC advertising, social media management, and more."
+  },
+ 
+   {
+    "keywords": ["portfolio", "work", "projects"],
+    "response": "Check out our portfolio at [yourwebsite.com/portfolio]. Interested in a case study?"
+  },
+   {
+    "keywords": ["contact", "reach", "talk"], 
+    "response": "Email us at contact@yourcompany.com or call (123) 456-7890. Want to speak with a human?"
+  },
+   {
+    "keywords": ["seo", "search engine"],
+    "response": "Our SEO includes keyword research, on-page optimization, and link building. Want a free SEO audit?"
+  },
+   {
+    "keywords": ["social media", "smm"],
+    "response": "We manage social media on platforms like Facebook, Twitter, and Instagram to boost engagement. Need a social media plan?"
+  },
+    {
+    "keywords": ["content marketing", "content"],
+    "response": "Our content marketing includes blogs, videos, and infographics to engage your audience. Want content ideas?'?"
+  },
+    {
+    "keywords": ["email", "email marketing"],
+    "response": "We create targeted email campaigns to nurture leads and drive sales. Interested in email strategies?"
+  },
+    {
+    "keywords": ["website"],
+    "response": "We design responsive, SEO-friendly websites to boost your online presence. Need a website makeover?"
+  },
+    {
+    "keywords": ["analytics", "tracking", "data"],
+    "response": "We use Google Analytics to track campaign performance. Want insights into your data?"
+  },
+    {
+    "keywords": ["strategy", "plan", "marketing plan"],
+    "response": "We craft custom digital marketing strategies to meet your goals. Ready to discuss your plan?"
+  },
+  {
+    "keywords": ["default"],
+    "response": "I’m here to help! Ask about services, pricing, or contact info."
+  }
+]
+ 
+

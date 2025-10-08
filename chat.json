@@ -1,0 +1,1079 @@
+{
+  "admin": {
+    "28dd1c6f-223b-4c15-88c2-704907feba48": [
+      {
+        "sender": "user",
+        "message": "hy",
+        "timestamp": "2025-09-24T08:21:45.922Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you with our iOS and web services today?",
+        "timestamp": "2025-09-24T08:21:45.960Z"
+      },
+      {
+        "sender": "user",
+        "message": "kaise ho",
+        "timestamp": "2025-09-24T08:22:42.326Z"
+      },
+      {
+        "sender": "bot",
+        "message": "main theek hoon, aap kaise ho?",
+        "timestamp": "2025-09-24T08:22:44.033Z"
+      },
+      {
+        "sender": "user",
+        "message": "ok",
+        "timestamp": "2025-09-24T09:33:28.309Z"
+      },
+      {
+        "sender": "bot",
+        "message": "by",
+        "timestamp": "2025-09-24T09:33:28.414Z"
+      },
+      {
+        "sender": "user",
+        "message": "hjdsjdsdsdd",
+        "timestamp": "2025-09-24T09:33:58.883Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I'm sorry, I didn't understand your message. Could you please rephrase or ask your question in English?",
+        "timestamp": "2025-09-24T09:34:01.090Z"
+      },
+      {
+        "sender": "user",
+        "message": "sassssssssssssa",
+        "timestamp": "2025-09-24T09:34:12.780Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you today?",
+        "timestamp": "2025-09-24T09:34:13.946Z"
+      },
+      {
+        "sender": "user",
+        "message": "okk womskrd",
+        "timestamp": "2025-09-24T09:34:30.953Z"
+      },
+      {
+        "sender": "bot",
+        "message": "by",
+        "timestamp": "2025-09-24T09:34:30.979Z"
+      }
+    ],
+    "2a6ce042-6ae1-46f9-a383-922ba0c51fb7": [
+      {
+        "sender": "user",
+        "message": "hy",
+        "timestamp": "2025-09-25T07:34:46.086Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you with our iOS and web services today?",
+        "timestamp": "2025-09-25T07:34:46.110Z"
+      },
+      {
+        "sender": "user",
+        "message": "okkk",
+        "timestamp": "2025-09-25T07:35:01.442Z"
+      },
+      {
+        "sender": "bot",
+        "message": "by",
+        "timestamp": "2025-09-25T07:35:01.469Z"
+      }
+    ],
+    "9d4f757f-8500-47e5-8809-6ce35b0ca6d2": [
+      {
+        "sender": "user",
+        "message": "cc",
+        "timestamp": "2025-09-26T06:39:34.306Z"
+      },
+      {
+        "sender": "bot",
+        "message": "It seems like you're asking \"cc,\" but I'm not sure what you mean. Could you clarify or provide more details?",
+        "timestamp": "2025-09-26T06:39:35.953Z"
+      }
+    ],
+    "12fc86d5-837b-4263-8af5-30dd7c5a5682": [
+      {
+        "sender": "user",
+        "message": "sdsd",
+        "timestamp": "2025-09-26T08:12:47.098Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I'm sorry, I don't understand your message. Could you please clarify or rephrase your question?",
+        "timestamp": "2025-09-26T08:12:48.822Z"
+      },
+      {
+        "sender": "user",
+        "message": "dssa",
+        "timestamp": "2025-09-26T08:12:49.881Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! It seems like you're trying to communicate, but I couldn't understand your message. Could you please rephrase or clarify what you're looking for? I'd be happy to help!",
+        "timestamp": "2025-09-26T08:12:52.809Z"
+      }
+    ],
+    "2c5053c2-c8e8-4c5b-8893-21fa2875bdb1": [
+      {
+        "sender": "user",
+        "message": "hello hello",
+        "timestamp": "2025-09-29T05:53:12.833Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-29T05:53:12.872Z"
+      }
+    ],
+    "f575a244-d8af-45d9-bfb2-a362747bd635": [
+      {
+        "sender": "user",
+        "message": "hello 😎",
+        "timestamp": "2025-09-29T06:51:28.897Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-29T06:51:28.941Z"
+      }
+    ],
+    "c23b93d8-572e-42c7-8835-9903977b1602": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-09-29T06:58:33.595Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-29T06:58:33.644Z"
+      }
+    ],
+    "ade10340-de05-42ae-8dbf-9ea2b0d34d8d": [
+      {
+        "sender": "user",
+        "message": "🤯",
+        "timestamp": "2025-09-30T05:32:52.600Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T05:32:52.646Z"
+      },
+      {
+        "sender": "user",
+        "message": "🥳",
+        "timestamp": "2025-09-30T05:33:01.606Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T05:33:01.626Z"
+      }
+    ],
+    "9025a162-6bf0-472f-bb2d-bb9c959901df": [
+      {
+        "sender": "user",
+        "message": "🤐",
+        "timestamp": "2025-09-30T05:40:08.110Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T05:40:08.145Z"
+      },
+      {
+        "sender": "user",
+        "message": "hello how are you",
+        "timestamp": "2025-09-30T05:40:30.347Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T05:40:30.367Z"
+      },
+      {
+        "sender": "user",
+        "message": "kaise ho aap",
+        "timestamp": "2025-09-30T05:40:36.582Z"
+      },
+      {
+        "sender": "bot",
+        "message": "main theek hoon, aap kaise ho?",
+        "timestamp": "2025-09-30T05:40:39.408Z"
+      },
+      {
+        "sender": "user",
+        "message": "mast🥰",
+        "timestamp": "2025-09-30T05:40:48.630Z"
+      },
+      {
+        "sender": "bot",
+        "message": "mast bhai🥰",
+        "timestamp": "2025-09-30T05:40:49.539Z"
+      },
+      {
+        "sender": "user",
+        "message": "or btao ky kr rhe ho aap😃",
+        "timestamp": "2025-09-30T05:41:04.406Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Aapka swagat hai! 😊 Main aapki help karne ke liye yahaan hoon. Bataiye, aapko kis chiz mein madad chahiye? 😃",
+        "timestamp": "2025-09-30T05:41:05.628Z"
+      },
+      {
+        "sender": "user",
+        "message": "kuch bs thoda  thoda help krte ho or kuch nhi",
+        "timestamp": "2025-09-30T05:41:40.546Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you with our iOS and web services today?",
+        "timestamp": "2025-09-30T05:41:40.564Z"
+      },
+      {
+        "sender": "user",
+        "message": "note 🥳",
+        "timestamp": "2025-09-30T05:41:51.733Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Got it! 🥳 Let me know how I can assist you today. 😊",
+        "timestamp": "2025-09-30T05:41:53.531Z"
+      }
+    ],
+    "e7ed91a9-b38e-49d2-bdc2-d8e2f3bc2042": [
+      {
+        "sender": "user",
+        "message": "😆",
+        "timestamp": "2025-09-30T07:13:21.680Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:13:21.715Z"
+      },
+      {
+        "sender": "user",
+        "message": "😢",
+        "timestamp": "2025-09-30T07:13:28.024Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:13:28.045Z"
+      }
+    ],
+    "4a98da62-927a-42dc-a580-0b9d150d84a5": [
+      {
+        "sender": "user",
+        "message": "😂",
+        "timestamp": "2025-09-30T07:17:21.822Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:17:21.857Z"
+      },
+      {
+        "sender": "user",
+        "message": "😪",
+        "timestamp": "2025-09-30T07:17:37.229Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:17:37.247Z"
+      }
+    ],
+    "5bf36a9e-6e21-4f9c-b237-c09353c52e04": [
+      {
+        "sender": "user",
+        "message": "😬",
+        "timestamp": "2025-09-30T07:19:55.725Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:19:55.760Z"
+      },
+      {
+        "sender": "user",
+        "message": "😅🙏",
+        "timestamp": "2025-09-30T07:20:03.701Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:20:03.720Z"
+      },
+      {
+        "sender": "user",
+        "message": "🥳",
+        "timestamp": "2025-09-30T07:20:08.157Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:20:08.175Z"
+      },
+      {
+        "sender": "user",
+        "message": "fine",
+        "timestamp": "2025-09-30T07:20:14.797Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Great! Let me know if you need any assistance.",
+        "timestamp": "2025-09-30T07:20:18.051Z"
+      },
+      {
+        "sender": "user",
+        "message": "🤩",
+        "timestamp": "2025-09-30T07:20:21.749Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:20:21.765Z"
+      }
+    ],
+    "86666c65-f071-48a7-b972-5fdf80cc1f08": [
+      {
+        "sender": "user",
+        "message": "😬",
+        "timestamp": "2025-09-30T07:23:52.557Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:23:52.590Z"
+      },
+      {
+        "sender": "user",
+        "message": "😀",
+        "timestamp": "2025-09-30T07:23:57.125Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:23:57.141Z"
+      },
+      {
+        "sender": "user",
+        "message": "hello how are bro",
+        "timestamp": "2025-09-30T07:24:06.856Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:24:06.874Z"
+      },
+      {
+        "sender": "user",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:24:13.918Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I'm just a virtual assistant, but thanks for asking! How can I assist you today?",
+        "timestamp": "2025-09-30T07:24:16.406Z"
+      },
+      {
+        "sender": "user",
+        "message": "kaise ho bhai🥳",
+        "timestamp": "2025-09-30T07:24:26.877Z"
+      },
+      {
+        "sender": "bot",
+        "message": "A: Main theek hoon, bhai! Tum sunao? 😊",
+        "timestamp": "2025-09-30T07:24:28.078Z"
+      },
+      {
+        "sender": "user",
+        "message": "kaha pe ho aap 🤐 kb aana hai iosandweb technology",
+        "timestamp": "2025-09-30T07:25:06.229Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Aap iOSandWeb Technology ke assistant ho. Hum yahin available hain aapki madad ke liye. Agar aapka koi specific question ya help chahiye to please batao. 😊",
+        "timestamp": "2025-09-30T07:25:09.844Z"
+      },
+      {
+        "sender": "user",
+        "message": "🙏 thanks",
+        "timestamp": "2025-09-30T07:25:53.996Z"
+      },
+      {
+        "sender": "bot",
+        "message": "You're welcome! Let me know if you need any help. 😊",
+        "timestamp": "2025-09-30T07:25:56.398Z"
+      },
+      {
+        "sender": "user",
+        "message": "love",
+        "timestamp": "2025-09-30T07:26:21.094Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I don't have personal relationships, but I'm here to help with any professional or technical questions you may have! Let me know how I can assist you.",
+        "timestamp": "2025-09-30T07:26:22.546Z"
+      }
+    ],
+    "e097dc34-f1b7-498c-965f-75c63fae6e7d": [
+      {
+        "sender": "user",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:28:41.923Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I'm doing well, thank you. How can I assist you today?",
+        "timestamp": "2025-09-30T07:28:43.367Z"
+      },
+      {
+        "sender": "user",
+        "message": "😂",
+        "timestamp": "2025-09-30T07:28:47.732Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:28:47.746Z"
+      },
+      {
+        "sender": "user",
+        "message": "😢",
+        "timestamp": "2025-09-30T07:28:53.477Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:28:53.495Z"
+      }
+    ],
+    "8d48a1e5-f2a9-43f8-afad-9f7916bc7d9e": [
+      {
+        "sender": "user",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:30:06.469Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I'm just a virtual assistant, but thank you for asking! How can I help you today?",
+        "timestamp": "2025-09-30T07:30:09.953Z"
+      },
+      {
+        "sender": "user",
+        "message": "🤐",
+        "timestamp": "2025-09-30T07:30:17.077Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:30:17.094Z"
+      },
+      {
+        "sender": "user",
+        "message": "kaise ho aap",
+        "timestamp": "2025-09-30T07:30:27.461Z"
+      },
+      {
+        "sender": "bot",
+        "message": "A: main theek hoon, aap kaise ho?",
+        "timestamp": "2025-09-30T07:30:28.748Z"
+      },
+      {
+        "sender": "user",
+        "message": "🤗🤗 mast",
+        "timestamp": "2025-09-30T07:30:38.067Z"
+      },
+      {
+        "sender": "bot",
+        "message": "A: 😊 Great to hear! Let me know if you need any assistance.",
+        "timestamp": "2025-09-30T07:30:39.056Z"
+      }
+    ],
+    "2c8eaad9-ac1a-4fc9-b246-b1997ae43bd6": [
+      {
+        "sender": "user",
+        "message": "😳",
+        "timestamp": "2025-09-30T07:32:41.333Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:32:41.366Z"
+      },
+      {
+        "sender": "user",
+        "message": "🤯😎",
+        "timestamp": "2025-09-30T07:32:55.445Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:32:55.463Z"
+      }
+    ],
+    "e1e18193-7b09-4495-9879-3f3be108946e": [
+      {
+        "sender": "user",
+        "message": "😬",
+        "timestamp": "2025-09-30T07:41:31.941Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:41:31.974Z"
+      },
+      {
+        "sender": "user",
+        "message": "how are you bro 😳",
+        "timestamp": "2025-09-30T07:41:48.933Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I'm good, thanks! How about you? 😊",
+        "timestamp": "2025-09-30T07:41:50.783Z"
+      }
+    ],
+    "93cf63df-a8da-4281-a38a-a3f392b92997": [
+      {
+        "sender": "user",
+        "message": "😬",
+        "timestamp": "2025-09-30T07:54:55.429Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-09-30T07:54:55.455Z"
+      }
+    ],
+    "33ea2bd9-5251-4e0d-b45b-2afa4902d4b7": [
+      {
+        "sender": "user",
+        "message": "🤨",
+        "timestamp": "2025-10-03T05:13:03.421Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-03T05:13:03.468Z"
+      }
+    ],
+    "1f31196a-59ab-4acc-8e96-4f24375e96f4": [
+      {
+        "sender": "user",
+        "message": "🥳",
+        "timestamp": "2025-10-03T05:53:57.237Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-03T05:53:57.304Z"
+      }
+    ],
+    "543b326c-3c16-4a80-9aa1-d88f676b7097": [
+      {
+        "sender": "user",
+        "message": "😬",
+        "timestamp": "2025-10-03T06:14:50.935Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-03T06:14:50.968Z"
+      }
+    ],
+    "9dd47900-c5d9-4492-a7d5-851993f86fe6": [
+      {
+        "sender": "user",
+        "message": "🤯",
+        "timestamp": "2025-10-03T06:30:00.152Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-03T06:30:00.170Z"
+      }
+    ],
+    "977c0fb5-e255-46ea-affc-32721bcd5944": [
+      {
+        "sender": "user",
+        "message": "😬",
+        "timestamp": "2025-10-03T06:58:22.962Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-03T06:58:23.006Z"
+      }
+    ],
+    "215fc66a-5956-442c-aba4-31297bdd3a6e": [
+      {
+        "sender": "user",
+        "message": "😍",
+        "timestamp": "2025-10-03T07:34:19.144Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-03T07:34:19.188Z"
+      },
+      {
+        "sender": "user",
+        "message": "hello how are you 😄",
+        "timestamp": "2025-10-03T07:34:48.477Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-03T07:34:48.502Z"
+      }
+    ],
+    "80eae582-8a7c-45d6-a1ef-2dab48372646": [
+      {
+        "sender": "user",
+        "message": "how are you bro 🤐",
+        "timestamp": "2025-10-03T07:35:09.429Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I'm fine, thanks. How about you? Let me know if you need any assistance.",
+        "timestamp": "2025-10-03T07:35:10.569Z"
+      },
+      {
+        "sender": "user",
+        "message": "kaha pe ho 😬",
+        "timestamp": "2025-10-03T07:35:31.310Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Main yahin hoon, aapki help ke liye tayyar! 😊",
+        "timestamp": "2025-10-03T07:35:33.445Z"
+      }
+    ],
+    "845c2ac0-2b96-48cd-9cbc-58d1e0ee32bb": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-06T06:03:36.279Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-06T06:03:36.350Z"
+      }
+    ],
+    "430a65e1-eb26-40f3-97b0-c2a4d830a9ea": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-06T06:25:25.822Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-06T06:25:25.866Z"
+      }
+    ],
+    "78d64b25-767f-4595-a172-a04b1c4a7b19": [
+      {
+        "sender": "user",
+        "message": "hy",
+        "timestamp": "2025-10-06T06:33:57.713Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you with our iOS and web services today?",
+        "timestamp": "2025-10-06T06:33:57.752Z"
+      }
+    ],
+    "59679ee3-77e1-4cf7-aa78-43bf15e049f6": [
+      {
+        "sender": "user",
+        "message": "c",
+        "timestamp": "2025-10-06T06:38:20.520Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Mai Rahul hu. Aap kaise ho?",
+        "timestamp": "2025-10-06T06:38:22.110Z"
+      }
+    ],
+    "54c02b03-e13c-43ca-a42e-5fd1f2ae0b66": [
+      {
+        "sender": "user",
+        "message": "helllo",
+        "timestamp": "2025-10-06T06:42:02.812Z"
+      },
+      {
+        "sender": "bot",
+        "message": "hi",
+        "timestamp": "2025-10-06T06:42:04.320Z"
+      }
+    ],
+    "7ba7d2cb-76e0-4900-9b34-6d008ed561ed": [
+      {
+        "sender": "user",
+        "message": "fdds",
+        "timestamp": "2025-10-06T06:42:12.736Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I'm sorry, I don't understand your question. Could you please rephrase it in English?",
+        "timestamp": "2025-10-06T06:42:14.552Z"
+      }
+    ],
+    "80ac0455-5e1c-43f5-8c8b-cf1bcc387f18": [
+      {
+        "sender": "user",
+        "message": "ss",
+        "timestamp": "2025-10-06T06:42:42.825Z"
+      },
+      {
+        "sender": "bot",
+        "message": "A: ss",
+        "timestamp": "2025-10-06T06:42:44.111Z"
+      }
+    ],
+    "a6feed5d-c188-4a36-8ba8-44e1d0d56763": [
+      {
+        "sender": "user",
+        "message": "hy",
+        "timestamp": "2025-10-06T06:44:47.306Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you with our iOS and web services today?",
+        "timestamp": "2025-10-06T06:44:47.344Z"
+      },
+      {
+        "sender": "user",
+        "message": "fdfds",
+        "timestamp": "2025-10-06T06:44:50.679Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Sorry, I didn't understand that. Could you please rephrase or provide more details?",
+        "timestamp": "2025-10-06T06:44:52.708Z"
+      }
+    ],
+    "036e5cb4-1e80-43bf-b1dc-9fbcf945aedf": [
+      {
+        "sender": "user",
+        "message": "sa",
+        "timestamp": "2025-10-06T06:45:40.616Z"
+      },
+      {
+        "sender": "bot",
+        "message": "hi",
+        "timestamp": "2025-10-06T06:45:41.785Z"
+      }
+    ],
+    "d033a9a2-6211-4376-b3d4-41369c637044": [
+      {
+        "sender": "user",
+        "message": "helo",
+        "timestamp": "2025-10-06T06:46:10.707Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-06T06:46:12.738Z"
+      }
+    ],
+    "cd096cdc-4765-4086-b5ef-7fe92d575f78": [
+      {
+        "sender": "user",
+        "message": "hy",
+        "timestamp": "2025-10-06T06:49:33.264Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you with our iOS and web services today?",
+        "timestamp": "2025-10-06T06:49:33.303Z"
+      },
+      {
+        "sender": "user",
+        "message": "dsasd",
+        "timestamp": "2025-10-06T06:49:58.680Z"
+      },
+      {
+        "sender": "bot",
+        "message": "It seems like your input is unclear. Could you please clarify or ask a specific question? I'm here to help!",
+        "timestamp": "2025-10-06T06:50:00.731Z"
+      }
+    ],
+    "7058b6e4-cebf-4907-a9e5-db0af9143185": [
+      {
+        "sender": "user",
+        "message": "sdaas",
+        "timestamp": "2025-10-06T06:51:16.057Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I don't have an answer for \"sdaas\". Could you please rephrase your question? I'm happy to help.",
+        "timestamp": "2025-10-06T06:51:17.623Z"
+      },
+      {
+        "sender": "user",
+        "message": "asdddd",
+        "timestamp": "2025-10-06T06:51:20.872Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Sorry, I didn't understand that. Could you please rephrase or ask something else?",
+        "timestamp": "2025-10-06T06:51:22.026Z"
+      }
+    ],
+    "d59d2f19-e55d-4548-9a4f-90ebd8586381": [
+      {
+        "sender": "user",
+        "message": "sda",
+        "timestamp": "2025-10-06T06:52:01.047Z"
+      },
+      {
+        "sender": "bot",
+        "message": "I don't have enough information to answer that. Could you please clarify or rephrase your question?",
+        "timestamp": "2025-10-06T06:52:02.231Z"
+      },
+      {
+        "sender": "user",
+        "message": "The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.",
+        "timestamp": "2025-10-06T06:52:42.041Z"
+      },
+      {
+        "sender": "bot",
+        "message": "It looks like you're encountering a server error message. This typically means the service is temporarily unavailable due to maintenance or high traffic.  \n\nFor assistance, you can:  \n- Try refreshing the page or checking back later  \n- Contact support if the issue persists  \n\nLet me know if you need help with anything else!",
+        "timestamp": "2025-10-06T06:52:44.155Z"
+      }
+    ],
+    "fab1f05a-9082-4adc-81a9-bd162cb711f6": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-06T06:53:14.473Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-06T06:53:14.511Z"
+      }
+    ],
+    "90fc0f0e-d670-482e-82de-95b2880507e4": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-06T06:54:13.593Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-06T06:54:13.613Z"
+      }
+    ],
+    "ed076cb9-48ad-45eb-91cb-02b286b0e6d0": [
+      {
+        "sender": "user",
+        "message": "gt",
+        "timestamp": "2025-10-06T06:55:39.881Z"
+      },
+      {
+        "sender": "bot",
+        "message": "A: mai nahi janta",
+        "timestamp": "2025-10-06T06:55:41.197Z"
+      }
+    ],
+    "dc63293b-2620-4a2a-ad71-936add414a76": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-06T06:57:03.596Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-06T06:57:03.634Z"
+      }
+    ],
+    "c5fafde5-2c60-41c3-be58-1824d842a7f3": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-06T06:59:45.800Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-06T06:59:45.825Z"
+      }
+    ],
+    "1cd39ff2-0a8d-482a-8594-3fd086e23b97": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-06T07:01:31.983Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-06T07:01:32.027Z"
+      }
+    ],
+    "36968d1d-a1a2-4a18-b71e-7adc2067096f": [
+      {
+        "sender": "user",
+        "message": "good morning  bro how are you",
+        "timestamp": "2025-10-06T07:29:57.634Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Good morning! I'm great, thank you. How can I assist you today?",
+        "timestamp": "2025-10-06T07:29:59.645Z"
+      }
+    ],
+    "4488e1c7-8f3a-4b24-bd93-fe034781b814": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-06T13:05:01.383Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-06T13:05:01.435Z"
+      }
+    ],
+    "28789b05-5560-458d-ac8a-99ae3fe52f42": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-08T06:03:19.730Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-08T06:03:19.796Z"
+      }
+    ],
+    "1259ae96-20dd-4088-bb66-4f50f4dec3a9": [
+      {
+        "sender": "user",
+        "message": "HELLO",
+        "timestamp": "2025-10-08T06:11:47.596Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-08T06:11:48.237Z"
+      }
+    ],
+    "b5fed3b4-e109-4877-a925-b29b610d159e": [
+      {
+        "sender": "user",
+        "message": "HY",
+        "timestamp": "2025-10-08T06:15:02.845Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you with our iOS and web services today?",
+        "timestamp": "2025-10-08T06:15:03.438Z"
+      }
+    ],
+    "71e3348e-f053-442e-b6b7-9ddf3f60d7cc": [
+      {
+        "sender": "user",
+        "message": "HY",
+        "timestamp": "2025-10-08T06:15:45.686Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you with our iOS and web services today?",
+        "timestamp": "2025-10-08T06:15:46.286Z"
+      }
+    ],
+    "92f04737-b9b3-4d28-8877-491983c2945a": [
+      {
+        "sender": "user",
+        "message": "HY",
+        "timestamp": "2025-10-08T06:17:12.935Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you with our iOS and web services today?",
+        "timestamp": "2025-10-08T06:17:13.538Z"
+      }
+    ],
+    "707044e9-109f-4987-9d55-b03bdf9642a3": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-08T06:54:54.386Z"
+      },
+      {
+        "sender": "bot",
+        "message": "how are you",
+        "timestamp": "2025-10-08T06:54:54.432Z"
+      }
+    ]
+  },
+  "28dd1c6f-223b-4c15-88c2-704907feba48": [
+    {
+      "sender": "admin",
+      "message": "hy",
+      "timestamp": "01:52 pm"
+    },
+    {
+      "sender": "admin",
+      "message": "hy",
+      "timestamp": "01:52 pm"
+    }
+  ],
+  "2a6ce042-6ae1-46f9-a383-922ba0c51fb7": [
+    {
+      "sender": "admin",
+      "message": "how are you",
+      "timestamp": "01:04 pm"
+    },
+    {
+      "sender": "admin",
+      "message": "how are you",
+      "timestamp": "01:04 pm"
+    },
+    {
+      "sender": "admin",
+      "message": "hy",
+      "timestamp": "01:14 pm"
+    },
+    {
+      "sender": "admin",
+      "message": "hy",
+      "timestamp": "01:14 pm"
+    }
+  ],
+  "rahul": {
+    "4d566df2-ffc4-4cef-960a-4b0fb640d2e5": [
+      {
+        "sender": "user",
+        "message": "hello",
+        "timestamp": "2025-10-06T08:05:27.355Z"
+      },
+      {
+        "sender": "bot",
+        "message": "Hello! How can I assist you with our iOS and web services today?",
+        "timestamp": "2025-10-06T08:05:27.392Z"
+      }
+    ]
+  },
+  "anjali": {
+    "1759739428102": []
+  }
+}

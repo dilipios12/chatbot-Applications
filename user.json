@@ -1,0 +1,31 @@
+[
+  {
+    "userId": "1000",
+    "username": "admin",
+    "email": "dilip@iosandweb.net",
+    "password": "admin1234",
+    "role": "Super Admin",
+    "status": "active",
+    "createdAt": "2025-08-02 03:44 PM",
+    "resetToken": "f36d6b752e7ca123777108fc84a32e0bc92e9fa7",
+    "resetTokenExpiry": 1755868012933
+  },
+  {
+    "userId": "1756446618414",
+    "username": "rahul",
+    "email": "rahul12@gmail.com",
+    "password": "1234",
+    "role": "admin",
+    "status": "active",
+    "createdAt": "2025-08-29 11:20 AM"
+  },
+  {
+    "userId": "1759739428102",
+    "username": "anjali",
+    "email": "anjali@iosandweb.net",
+    "password": "12345678",
+    "role": "admin",
+    "status": "active",
+    "createdAt": "2025-10-06 02:00 PM"
+  }
+]
