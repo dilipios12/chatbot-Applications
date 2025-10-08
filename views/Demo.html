@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<script>
+  (function() {
+    const currentWidgetId = 'admin2d3f3b64-3f53-49b3-a2e8-3793c3c7ba30';
+    const adminName = 'admin';
+    fetch('https://chatbot.iosandweb.net/api/settings?id=' + currentWidgetId)
+      .then(res => res.json())
+      .then(widget => {
+        if (widget.status === 'active') {
+          const script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.async = true;
+          script.src = (location.protocol === 'https:' ? 'https://' : 'http://') +
+                       'localhost:3000/api/load-widget?id=' + currentWidgetId +
+                       '&adminName=' + encodeURIComponent(adminName);
+          document.body.appendChild(script);
+        } else {
+          console.log("Widget is inactive.");
+        }
+      })
+      .catch(err => console.error("Widget load failed", err));
+  })();
+  </script>
+  </body>   
+</html>
+
+
+
