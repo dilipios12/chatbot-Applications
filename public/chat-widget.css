@@ -164,6 +164,36 @@ color: white;
 }
 
 
+/* Time shown above message (centered) */
+.chat-time {
+    /* text-align: center; */
+    color: white;
+    font-size: 14px;
+    /* margin-bottom: 4px; */
+    /* opacity: 0.8; */
+    white-space: nowrap;
+    /* width: 100%; */
+    font-weight: bold;
+    /* font-weight: 400; */
+      transform: translateY(-74px);
+    margin-left: 100px;
+}
+
+/* Row that holds avatar + message */
+.chat-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    margin-left: -291px;
+}
+
+.chat-timedemo {
+    height: 10px;
+    /* background-color: #007bff; */
+    margin-top: 73px;
+  }
+
+  
 .chat-msg .bot-human {
   background-color: white;
   width: fit-content;
