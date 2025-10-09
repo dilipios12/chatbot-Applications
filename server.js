@@ -2705,19 +2705,28 @@ function showChatInterface() {
   }
 
 
+  
   if (!localStorage.getItem("welcomeShown")) {
     const timestamp = new Date();
+  const formattedTime = timestamp.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
     // Bot message at top
     const welcomeMsg = document.createElement("div");
     welcomeMsg.className = "chat-msg bot-msg";
-    welcomeMsg.innerHTML = \`
+
+   welcomeMsg.innerHTML = \`
+    <div class="chat-time">Today \${formattedTime}</div>
+  <div class="chat-timedemo">\${formattedTime}</div>
+      <div class="chat-row">
       <img src="images/bot.png" alt="Bot" class="chat-avatar" />
       <div class="chat-bubble">
         <p>${welcome}</p>
         <div class="time-ago"></div>
       </div>
+    </div>
     \`;
     chatMsgs.appendChild(welcomeMsg);
+
+    
 
     // Options container pinned at bottom
     const optionsContainer = document.createElement("div");
@@ -3861,6 +3870,7 @@ app.get('/api/sources', (req, res) => {
 server.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
+
 
 
 
